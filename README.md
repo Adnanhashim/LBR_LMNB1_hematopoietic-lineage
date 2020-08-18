@@ -64,7 +64,7 @@ plotFingerprint https://deeptools.readthedocs.io/en/develop/content/tools/plotFi
 plotFingerprint -b MonocytesLBR_Rep2_chip_rmdup.bam MonocytesLBR_Rep2_input_rmdup.bam-plot MonocytesLBR_rep2_ChIP_enrichment_fingerprint.png
 ```
 
-![ChIP enrichment Fingerprint](https://github.com/Adnanhashim/LBR_LMNB1_hematopoietic-lineages/blob/master/Screenshot%202020-07-31%2011.36.22.png)
+![ChIP enrichment Fingerprint](https://github.com/Adnanhashim/LBR_LMNB1_hematopoietic-lineage/blob/master/bamfingerprint.png)
 
 #### Peak Calling
 
@@ -144,7 +144,7 @@ dev.off()
 ```
 reference: http://quinlanlab.org/tutorials/bedtools/bedtools.html
 
-![Enrichmentoverchromosomes](https://github.com/Adnanhashim/LBR_LMNB1_hematopoietic-lineages/blob/master/Biclustering_heatmap_LBR.png)
+![Enrichmentoverchromosomes](https://github.com/Adnanhashim/LBR_LMNB1_hematopoietic-lineage/blob/master/Biclustering_heatmap_LBR.png)
 
 
 #### Overview of cLCDs and cLADs at the chromosomal level
@@ -161,6 +161,6 @@ covplot(mylist, weightCol="V6")
 dev.off()
 ```
 
-![Enrichmentoverchromosomes](https://github.com/Adnanhashim/LBR_LMNB1_hematopoietic-lineages/blob/master/LMNB1_LBR_Figure_3_temp.png)
+![Enrichmentoverchromosomes](https://github.com/Adnanhashim/LBR_LMNB1_hematopoietic-lineage/blob/master/LMNB1_LBR_Figure_3_temp.png)
 
 
